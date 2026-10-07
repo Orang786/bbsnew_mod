@@ -1,0 +1,13 @@
+{
+  "bbs.gui.studio.title": "Block Buster Studio",
+  "bbs.gui.timeline": "Timeline",
+  "bbs.gui.hierarchy": "Hierarchy",
+  "bbs.gui.properties": "Properties",
+  "bbs.gui.play": "Play",
+  "bbs.gui.stop": "Stop",
+  "bbs.gui.export": "Export",
+  "bbs.gui.keyframe": "Keyframe",
+  "bbs.gui.fps": "FPS",
+  "bbs.gui.duration": "Duration",
+  "key.bbs.open": "Open Block Buster Studio"
+}

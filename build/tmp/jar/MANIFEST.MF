@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: bbs
+Specification-Vendor: Venux
+Specification-Version: 1
+Implementation-Title: bbs
+Implementation-Version: 1.21_235674564
+Implementation-Vendor: Venux
+Implementation-Timestamp: 2026-10-07T16:22:28+0700
+
